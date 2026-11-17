@@ -94,4 +94,4 @@ Dữ liệu lấy từ ESP32 + DHT11 trên bàn thử nghiệm. Độ ẩm từn
 
 Hướng dẫn chi tiết: [Firmware](firmware/README.md) · [Broker](broker/README.md) · [Ingestion](ingest/README.md) · [Phân tích](analysis/README.md).
 
-Sinh viên thực hiện: bổ sung họ tên, mã sinh viên và đóng góp thực tế trước khi nộp.
+Sinh viên thực hiện: Phú Đức Quý.
