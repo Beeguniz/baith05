@@ -1,0 +1,3 @@
+﻿experiment,duration_seconds,total_received,stored_successfully,rejected,duplicates,database_errors,avg_write_latency_ms,p95_write_latency_ms,query_count,query_errors,avg_query_latency_ms,p95_query_latency_ms
+A_no_heavy_query,20.000000,10,10,0,0,0,7.048540,11.072065,0,0,0.000000,0.000000
+B_with_heavy_query,20.000000,10,10,0,0,0,7.543600,10.689950,1654716,0,0.011430,0.012200

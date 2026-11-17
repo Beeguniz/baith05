@@ -1,0 +1,8 @@
+T0=2026-11-17T05:02:19.996Z
+T1=2026-11-17T05:02:30.017Z
+query_window=fixed
+before_count=5
+after_count=5
+keys_equal=True
+values_equal=True
+result=PASS

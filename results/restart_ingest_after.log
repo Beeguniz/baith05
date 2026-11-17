@@ -1,0 +1,7 @@
+2026-11-17 12:02:30 INFO cse3069.ingest SQLite database=D:\baith5\data\greenhouse.db
+2026-11-17 12:02:30 INFO cse3069.ingest Starting ingestion service with SQLite persistence
+2026-11-17 12:02:30 INFO cse3069.ingest Connected to MQTT broker 127.0.0.1:1883
+2026-11-17 12:02:30 INFO cse3069.ingest Subscribed topic=cse3069/th05/esp32/telemetry qos=1
+2026-11-17 12:02:30 INFO cse3069.ingest STORED quality=VALID device_id=esp32_dht11 boot_id=2365B7A032264120 seq=525 ts=1053265 received_at=2026-11-17T05:02:30.806Z temperature=28.9 humidity=98.0 reason=payload accepted
+2026-11-17 12:02:32 INFO cse3069.ingest STORED quality=VALID device_id=esp32_dht11 boot_id=2365B7A032264120 seq=526 ts=1055265 received_at=2026-11-17T05:02:32.477Z temperature=28.9 humidity=98.0 reason=payload accepted
+2026-11-17 12:02:34 INFO cse3069.ingest STORED quality=VALID device_id=esp32_dht11 boot_id=2365B7A032264120 seq=527 ts=1057265 received_at=2026-11-17T05:02:34.468Z temperature=28.9 humidity=98.0 reason=payload accepted
